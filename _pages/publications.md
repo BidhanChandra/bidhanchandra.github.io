@@ -14,9 +14,13 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+15. **[MELTS: Fully Automated Active Learning for Fewest-Switches Surface Hopping Dynamics](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5c01454)**\
+   Matheus de Oliveira Bispo, Rafael Souza Mattos, Max Pinheiro Jr, Bidhan Chandra Garain, Pavlo O Dral, Mario Barbatti\
+      *Journal of Chemical Theory and Computation* 21(22), 11390-11400 (2025).
+
 14. **[ULaMDyn: Enhancing Excited-State Dynamics Analysis Through Streamlined Unsupervised Learning](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00374h)**\
    *Max Pinheiro Jr, Matheus O Bispo, Rafael S Mattos, Mariana Telles do Casal, Bidhan Chandra Garain★, Josene M Toldo, Saikat Mukherjee, Mario Barbatti*\
-   Just accepted in *Digital Discovery* (2025).
+    *Digital Discovery* 4(3), 666-683 (2025).
 
 13. **[Conformational Dynamics of the Pyrene Excimer](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp03947e/unauth)**\
    *Giovanni Parolin, Bidhan Chandra Garain, Saikat Mukherjee, Giovanni Granucci, Stefano Corni, Mario Barbatti*\
@@ -71,6 +75,10 @@ author_profile: true
     *The Journal of Organic Chemistry*, 83(21), 13287-13295 (2018).
 
 ## Preprints
+
+1. **[Uncertainty Calibration in Molecular Machine Learning: Comparing Evidential and Ensemble Approaches](https://chemrxiv.org/engage/chemrxiv/article-details/68f1fb38bc2ac3a0e0805b98)**\
+Bidhan Chandra Garain★, Max Pinheiro Jr, Matheus O Bispo, Mario Barbatti\
+   *Chemrxiv*, 2025.
 
 1. **[Improved Prediction of Maximum EQE in TADF-based OLEDs Through Ensemble Learning](https://chemrxiv.org/engage/chemrxiv/article-details/62d0f6fd724581bfc496e857)**\
    *Bidhan Chandra Garain★, Swapan K. Pati*\
