@@ -76,7 +76,7 @@ author_profile: true
 
 ## Preprints
 
-1. **[Uncertainty Calibration in Molecular Machine Learning: Comparing Evidential and Ensemble Approaches](https://chemrxiv.org/engage/chemrxiv/article-details/68f1fb38bc2ac3a0e0805b98)**\
+2. **[Uncertainty Calibration in Molecular Machine Learning: Comparing Evidential and Ensemble Approaches](https://chemrxiv.org/engage/chemrxiv/article-details/68f1fb38bc2ac3a0e0805b98)**\
 Bidhan Chandra Garain★, Max Pinheiro Jr, Matheus O Bispo, Mario Barbatti\
    *Chemrxiv*, 2025.
 
